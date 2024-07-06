@@ -4,7 +4,7 @@ function play() {
 }
 // Getting formated date from date string
 let deadline = new Date(
-    "dec 31, 2099 16:24:59"
+    "dec 31, 2099 12:00:00"
 ).getTime();
 console.log(deadline)
 // Calling defined function at certain interval
