@@ -1,0 +1,83 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+body {
+  background: #0b5563;
+
+  height: 720px;
+  position: relative;
+  overflow: hidden;
+}
+.image {
+  background: #0b5563;
+  width: 654px;
+  height: 178px;
+  position: absolute;
+  left: 37px;
+  top: 452px;
+}
+._9-25 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 175px;
+  font-weight: 400;
+}
+._9-25_l {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 175px;
+  font-weight: 400;
+}
+._9-25_r {
+  color: #ffffff;
+  text-align: right;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 175px;
+  font-weight: 400;
+}
+
+.button2 {
+  background: #0d778c;
+  border-radius: 10px;
+  width: 320px;
+  height: 74px;
+  align-items: right;
+  align-self: right;
+
+}
+.button3 {
+  background: #0d778c;
+  border-radius: 10px;
+  width: 320px;
+  height: 74px;
+
+}
+.start-stop {
+  color: #ffffff;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  width: 209px;
+  height: 37px;
+}
+.image2 {
+  width: 40px;
+  height: 40px;
+}
+
+.edit-timer {
+  color: #ffffff;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+
+}
+.image3 {
+
+  width: 40px;
+  height: 45.44px;
+
+}
